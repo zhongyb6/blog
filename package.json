@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "a blog build by vuepress",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "liguirong720",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
