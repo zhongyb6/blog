@@ -1,5 +1,6 @@
 module.exports = {
     title: '前端基础',
+    base: 'blog',
     themeConfig: {
         nav: [{
                 text: '首页',
