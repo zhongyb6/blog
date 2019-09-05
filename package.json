@@ -4,7 +4,8 @@
   "description": "a blog build by vuepress",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
+    "deploy": "bash deploy.sh"
   },
   "keywords": [],
   "author": "liguirong720",

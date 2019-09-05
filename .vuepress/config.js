@@ -1,6 +1,6 @@
 module.exports = {
     title: '前端基础',
-    base: 'blog',
+    base: '/blog/',
     themeConfig: {
         nav: [{
                 text: '首页',
@@ -24,7 +24,7 @@ module.exports = {
             },
             {
                 text: 'Github',
-                link: 'https://github.com/liguirong720/js-demo.git'
+                link: 'https://github.com/liguirong720/blog.git'
             }
         ],
         sidebar: [{
