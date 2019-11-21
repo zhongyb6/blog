@@ -1,7 +1,13 @@
 module.exports = {
-    title: '前端基础',
+    title: '鬼掠凹',
+    description: '每天惊吓一点点',
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ],
     base: '/blog/',
     themeConfig: {
+        logo: '/logo.png',
+        lastUpdated: 'lastUpdate',
         nav: [{
                 text: '首页',
                 link: '/'
@@ -9,10 +15,6 @@ module.exports = {
             {
                 text: 'JavaScript',
                 link: '/javascript/'
-            },
-            {
-                text: 'css',
-                link: '/css/'
             },
             {
                 text: 'vue',
@@ -31,15 +33,7 @@ module.exports = {
                 title: 'JavaScript',
                 collapsable: false,
                 children: [
-                    '/javascript/',
-                    '/javascript/bind实现',
-                ]
-            },
-            {
-                title: 'css',
-                collapsable: false,
-                children: [
-                    '/css/'
+                    '/javascript/apply，call与bind简单实现',
                 ]
             },
             {
