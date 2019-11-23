@@ -17,37 +17,71 @@ module.exports = {
                 link: '/javascript/'
             },
             {
-                text: 'vue',
+                text: 'Vue',
                 link: '/vue/'
             },
             {
-                text: 'react',
+                text: 'React',
                 link: '/react/'
+            },
+            {
+                text: 'node',
+                link: '/node/'
+            },
+            {
+                text: 'Webpack',
+                link: '/webpack/'
+            },
+            {
+                text: '小程序',
+                link: '/wxapp/'
             },
             {
                 text: 'Github',
                 link: 'https://github.com/liguirong720/blog.git'
             }
         ],
-        sidebar: [{
+        sidebar: [
+            {
                 title: 'JavaScript',
                 collapsable: false,
                 children: [
-                    '/javascript/apply，call与bind简单实现',
+                    '/javascript/',
                 ]
             },
             {
-                title: 'vue',
+                title: 'Vue',
                 collapsable: false,
                 children: [
                     '/vue/'
                 ]
             },
             {
-                title: 'react',
+                title: 'React',
                 collapsable: false,
                 children: [
                     '/react/'
+                ]
+            },
+            {
+                title: 'node',
+                collapsable: false,
+                children: [
+                    '/node/'
+                ]
+            },
+            {
+                title: 'Webpack',
+                collapsable: false,
+                children: [
+                    '/webpack/'
+                ]
+            },
+            {
+                title: '小程序',
+                collapsable: false,
+                children: [
+                    '/wxapp/'
                 ]
             }
         ]
