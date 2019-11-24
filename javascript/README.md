@@ -2,6 +2,8 @@
 
 ## 随笔
 
+- [async/await使用小tips](https://juejin.im/post/5dda19a751882572f8249f08)
+
 - [apply，call与bind简单实现](./apply，call与bind简单实现.html)
 
 - ['this' is a question](https://juejin.im/post/5b2df8226fb9a00e35683984)
