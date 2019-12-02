@@ -16,3 +16,6 @@
 
 [vue-verify-demo](https://github.com/liguirong720/vue-verify-demo)
 
+【电影APP】
+[vue-movie-app](https://github.com/liguirong720/vue-movie-app)
+
